@@ -1,16 +1,16 @@
 review:
   - paths:
-      - cmd/**
-      - api/**
-      - controllers/**
-      - internal/**
-      - core/**
+      - cmd/*
+      - api/*
+      - controllers/*
+      - internal/*
+      - core/*
     reviewers:
       - ricardozanini
       - spolti
       - davidesalerno
   - paths:
-      - test/**
+      - test/*
     reviewers:
       - sutaakar
       - radtriste
