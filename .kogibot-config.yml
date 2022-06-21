@@ -6,13 +6,11 @@ review:
       - internal/*
       - core/*
     reviewers:
-      - ricardozanini
       - spolti
       - davidesalerno
   - paths:
       - test/*
     reviewers:
-      - sutaakar
       - radtriste
   - paths:
       - Jenkinsfile*
@@ -21,6 +19,5 @@ review:
     reviewers:
       - radtriste
 defaultReviewers:
-  - ricardozanini
   - spolti
   - davidesalerno
